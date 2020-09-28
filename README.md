@@ -25,6 +25,7 @@ The latest release of Ghost is now supported! Changes include:
 ### Deploy
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/jocelyngirard/ghost-on-heroku)
 
 If the above button does not work for you, disable anything that might be blocking Heroku from inferring the referrer (e.g. Brave shield), or try this: https://heroku.com/deploy?template=https://github.com/snathjr/ghost-on-heroku (if you're using a fork, make sure to point the template link to your repo).
 
